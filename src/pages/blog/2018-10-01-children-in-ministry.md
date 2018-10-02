@@ -2,15 +2,13 @@
 templateKey: blog-post
 title: Children in Ministry
 date: 2018-10-02T02:09:42.434Z
-description: >-
-  Kidsministryteam.com is focused on providing tools and resources for equipping
-  children in Christian ministry. We believe that kids have access to the same
-  Holy Spirit as the most seasoned minister and have giftings and callings from
-  God that they can walk in today.
+description: ''
 tags:
   - kids-ministry
 ---
-![](/img/liam.jpg)
+![null](/img/liam.jpg)
+
+Kidsministryteam.com is focused on providing tools and resources for equipping children in Christian ministry. We believe that kids have access to the same Holy Spirit as the most seasoned minister and have giftings and callings from God that they can walk in today.
 
 Since I have been involved in children's ministry I have witnessed children praying for and healing the sick, receiving heavenly revelation, preaching in front of congregations, and teaching other kids to do the same. By and large, these kids have not been prodigies or any different than any other kid you may know. They have just been told that they can encounter Jesus and been given a safe place to do so and that's what happens.
 
