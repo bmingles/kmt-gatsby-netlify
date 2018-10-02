@@ -10,6 +10,8 @@ description: >-
 tags:
   - kids-ministry
 ---
+![](/img/liam.jpg)
+
 Since I have been involved in children's ministry I have witnessed children praying for and healing the sick, receiving heavenly revelation, preaching in front of congregations, and teaching other kids to do the same. By and large, these kids have not been prodigies or any different than any other kid you may know. They have just been told that they can encounter Jesus and been given a safe place to do so and that's what happens.
 
 ```
