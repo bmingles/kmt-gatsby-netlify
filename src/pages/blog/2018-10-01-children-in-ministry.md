@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Children in Ministry
+title: 'Children in Ministry: Test'
 date: 2013-03-01T05:00:00.000Z
 cover: /img/liam.jpg
 description: ''
